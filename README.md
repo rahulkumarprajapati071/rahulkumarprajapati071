@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/rahulkumarprajapati071/rahulkumarprajapati071/1073de51266fcf1b2906c323db50b61b209c5253/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/rahulkumarprajapati071/rahulkumarprajapati071/blob/main/Blue%20Gaming%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend and Java developer from India</h3>
 
