@@ -1,4 +1,4 @@
-![logo](https://github.com/rahulkumarprajapati071/rahulkumarprajapati071/blob/main/Blue%20Gaming%20Facebook%20Cover.png)
+![logo](https://github.com/rahulkumarprajapati071/rahulkumarprajapati071/blob/main/Blue%20Gaming%20Facebook%20Cover-min.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend and Java developer from India</h3>
 
