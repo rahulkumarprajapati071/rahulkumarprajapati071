@@ -1,4 +1,4 @@
-![logo](https://github.com/rahulkumarprajapati071/rahulkumarprajapati071/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/rahulkumarprajapati071/rahulkumarprajapati071/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend and Java developer from India</h3>
 
